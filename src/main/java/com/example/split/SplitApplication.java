@@ -9,5 +9,4 @@ public class SplitApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SplitApplication.class, args);
 	}
-
 }
